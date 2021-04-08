@@ -18,7 +18,7 @@ portalocker==1.7.1
 pycparser==2.20
 PyJWT==2.0.1
 python-dotenv==0.17.0
-pywin32==300
+#pywin32==300
 requests==2.25.1
 requests-oauthlib==1.3.0
 six==1.15.0
