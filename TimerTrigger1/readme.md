@@ -1,6 +1,6 @@
-# TimerTrigger - Python
+# Weekly CALI Report
 
-The `TimerTrigger` makes it incredibly easy to have your functions executed on a schedule. This sample demonstrates a simple use case of calling your function every 5 minutes.
+NJ Health posts a pdf on Thursdays looking at data from the previous week at the following [url](https://www.nj.gov/health/cd/statistics/covid/).  This repo is an Azure Function using a TimerTrigger using Python.
 
 ## How it works
 
